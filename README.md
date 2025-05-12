@@ -1,2 +1,5 @@
 # automatisation-lab2
-lab2
+
+## Author
+
+Andrii Pinchuk
