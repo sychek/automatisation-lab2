@@ -3,3 +3,7 @@
 ## Author
 
 Andrii Pinchuk
+
+## Steps
+
+See [steps](steps.md)
